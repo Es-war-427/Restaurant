@@ -1,0 +1,1 @@
+A premium and authentic steakhouse-themed web application built using Django. Customers can explore the ambiance, view content-rich sections like About & Contact, and even leave reviews. Designed for both functionality and aesthetic appeal.
